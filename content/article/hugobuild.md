@@ -63,4 +63,4 @@ To create this article I used the following command:
 hugo new article/hugobuild.md
 ```
 
-Then I committed the files to a Github repo and added a .yml file for deployment.
+Then I committed the files to a Github repo and changed the repo's build and deployment settings to GitHub actions. I then added a .yml file for deployment.
